@@ -1,0 +1,9 @@
+
+{
+  "name": "EcoSort AI: Smart Waste Segregation",
+  "description": "An AI-powered waste management platform that uses computer vision to classify waste and provide sustainable disposal guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
