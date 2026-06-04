@@ -1,20 +1,76 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ♻️ EcoSort AI – Smart Waste Segregation System
 
-# Run and deploy your AI Studio app
+EcoSort AI is an intelligent waste segregation platform that uses Artificial Intelligence and Computer Vision to automatically classify waste into different categories, helping users dispose of waste correctly and promote sustainable waste management.
 
-This contains everything you need to run your app locally.
+🌐 Live Demo: https://ecosort-ai-smart-waste-segregation.vercel.app/
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## 📌 Overview
 
-**Prerequisites:**  Node.js
+Waste segregation is one of the biggest challenges in modern waste management systems. EcoSort AI aims to solve this problem by leveraging AI-powered image recognition to identify waste items and classify them into the appropriate category.
 
+The system provides a simple and user-friendly interface where users can upload or capture images of waste items and receive instant classification results.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Features
+
+- 🤖 AI-powered waste classification
+- 📷 Image-based waste detection
+- ♻️ Smart segregation into waste categories
+- ⚡ Fast real-time predictions
+- 📱 Responsive and user-friendly interface
+- 🌍 Promotes sustainable waste disposal practices
+- 📊 Interactive dashboard and results visualization
+
+---
+
+## 🧠 Problem Statement
+
+Improper waste disposal leads to:
+
+- Environmental pollution
+- Increased landfill burden
+- Lower recycling efficiency
+- Health risks due to hazardous waste mixing
+
+EcoSort AI helps users make informed disposal decisions by automatically identifying waste types using machine learning and computer vision technologies.
+
+---
+
+## 🏗️ System Workflow
+
+1. User uploads an image of a waste item.
+2. AI model processes the image.
+3. Waste type is detected and classified.
+4. Appropriate waste category is displayed.
+5. User receives segregation guidance.
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React.js
+- TypeScript
+- Vite
+- HTML5
+- CSS3
+
+### AI & Machine Learning
+- Computer Vision
+- Image Classification Models
+- Waste Detection Algorithms
+
+### Deployment
+- Vercel
+
+### Development Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Project Structure
