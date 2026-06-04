@@ -74,6 +74,7 @@ EcoSort AI helps users make informed disposal decisions by automatically identif
 ---
 
 ## 📂 Project Structure
+
 EcoSort-AI/
 │
 ├── components/
@@ -117,20 +118,22 @@ EcoSort AI contributes to:
 Add screenshots of your application here.
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](<img width="1846" height="976" alt="image" src="https://github.com/user-attachments/assets/cb3af997-7e10-41cf-9d65-83eefecfe729" />
+)
 
 ### Waste Detection
-![Detection](screenshots/detection.png)
+![Detection](<img width="1852" height="965" alt="image" src="https://github.com/user-attachments/assets/d4044d4f-fe3d-4f8a-acf2-0c3e968e8dbc" />
+)
 
 ### Results
-![Results](screenshots/results.png)
+![Results](<img width="867" height="941" alt="image" src="https://github.com/user-attachments/assets/53c4282a-e041-4242-9016-896634074f46" />
+)
 
 ---
 
 ## 👨‍💻 Contributors
 
 - Tanush Namala
-- Oz-Agent
 
 ---
 
