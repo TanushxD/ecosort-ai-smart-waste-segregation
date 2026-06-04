@@ -74,3 +74,78 @@ EcoSort AI helps users make informed disposal decisions by automatically identif
 ---
 
 ## 📂 Project Structure
+EcoSort-AI/
+│
+├── components/
+├── services/
+├── App.tsx
+├── index.tsx
+├── index.html
+├── types.ts
+├── metadata.json
+├── package.json
+├── vite.config.ts
+└── README.md
+
+---
+
+## 🌱 Impact
+
+EcoSort AI contributes to:
+
+- Cleaner environments
+- Better recycling practices
+- Reduced landfill waste
+- Increased public awareness of waste management
+- Sustainable smart-city initiatives
+
+---
+
+## 🔮 Future Enhancements
+
+- IoT-enabled smart dustbin integration
+- Mobile application support
+- Real-time camera scanning
+- Reward-based recycling system
+- Municipal waste analytics dashboard
+- Multi-language support
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Waste Detection
+![Detection](screenshots/detection.png)
+
+### Results
+![Results](screenshots/results.png)
+
+---
+
+## 👨‍💻 Contributors
+
+- Tanush Namala
+- Oz-Agent
+
+---
+
+## 📄 License
+
+This project is developed for educational and research purposes.
+
+---
+
+## ⭐ Support
+
+If you found this project useful:
+
+- Star this repository ⭐
+- Fork the project 🍴
+- Share it with others ♻️
+
+Together, let's build a cleaner and smarter future with AI-powered waste management.
