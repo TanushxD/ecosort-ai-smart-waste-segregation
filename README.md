@@ -118,16 +118,14 @@ EcoSort AI contributes to:
 Add screenshots of your application here.
 
 ### Home Page
-![Home Page](<img width="1846" height="976" alt="image" src="https://github.com/user-attachments/assets/cb3af997-7e10-41cf-9d65-83eefecfe729" />
-)
+![Home Page](<a href="https://ibb.co/TMQ646fZ"><img src="https://i.ibb.co/Xxn171Q9/screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44.png" alt="screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44" border="0"></a>
+<a href="https://ibb.co/qMf2ttJx"><img src="https://i.ibb.co/WWwRbbVs/screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-12-00-58.png" alt="screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-12-00-58" border="0"></a>)
 
 ### Waste Detection
-![Detection](<img width="1852" height="965" alt="image" src="https://github.com/user-attachments/assets/d4044d4f-fe3d-4f8a-acf2-0c3e968e8dbc" />
-)
+![Detection](<a href="https://ibb.co/TMQ646fZ"><img src="https://i.ibb.co/Xxn171Q9/screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44.png" alt="screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44" border="0"></a>)
 
 ### Results
-![Results](<img width="867" height="941" alt="image" src="https://github.com/user-attachments/assets/53c4282a-e041-4242-9016-896634074f46" />
-)
+![Results](<a href="https://ibb.co/qMf2ttJx"><img src="https://i.ibb.co/WWwRbbVs/screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-12-00-58.png" alt="screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-12-00-58" border="0"></a>)
 
 ---
 
