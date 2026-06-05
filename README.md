@@ -118,7 +118,7 @@ EcoSort AI contributes to:
 Add screenshots of your application here.
 
 ### Home Page
-<a href="https://ibb.co/TMQ646fZ"><img src="https://i.ibb.co/Xxn171Q9/screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44.png" alt="screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44" border="0"></a>
+<a href="https://ibb.co/gLnZCrxc"><img src="https://i.ibb.co/wFvh1df2/dashboard.png" alt="dashboard" border="0"></a>
 
 ### Waste Detection
 <a href="https://ibb.co/TMQ646fZ"><img src="https://i.ibb.co/Xxn171Q9/screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44.png" alt="screencapture-ecosort-ai-smart-waste-segregation-vercel-app-2026-06-05-11-59-44" border="0"></a>
